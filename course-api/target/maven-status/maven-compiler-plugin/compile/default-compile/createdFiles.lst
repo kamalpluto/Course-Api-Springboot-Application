@@ -1,0 +1,10 @@
+io\legendfarmer\springbootstarter\hello\HelloController.class
+io\legendfarmer\springbootstarter\topic\TopicService.class
+io\legendfarmer\springbootstarter\courses\Course.class
+io\legendfarmer\springbootstarter\courses\CourseRepository.class
+io\legendfarmer\springbootstarter\courses\CourseController.class
+io\legendfarmer\springbootstarter\topic\TopicRepository.class
+io\legendfarmer\springbootstarter\topic\Topic.class
+io\legendfarmer\springbootstarter\topic\TopicController.class
+io\legendfarmer\springbootstarter\CourseApiApp.class
+io\legendfarmer\springbootstarter\courses\CourseService.class
